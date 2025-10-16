@@ -45,7 +45,9 @@ A distributed database query system that enables natural language querying acros
 
 ---
 
-##  Database Schemas
-
-###
-
+## For LLM Generation
+  -- I have used Gemini API Key which you can get from GEMINI
+  -- Database 2 should be created by you only. 
+## Future Improvements
+    -- Strong Syntax and Pattern Matching (Jacard Algo and other Algo to be implemented)
+    --This is the production database and Query and Will be deployed in 2 months from now with queries working end-to-end for complex Datasets too.

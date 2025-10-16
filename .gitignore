@@ -1,0 +1,34 @@
+# Ignore auth file and environment folder
+auth.py
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite or other database files
+*.db
+
+# Virtual environment folders
+venv/
+.env/
+.venv/
+
+# IDE / editor specific files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Python cache
+*.pyo
+*.pyd
+*.so

@@ -1,0 +1,41 @@
+student_id,name,program,year,email
+S001,Rahul Sharma,Computer Science,2,rahul.sharma@university.edu
+S002,Priya Patel,Computer Science,3,priya.patel@university.edu
+S003,Amit Kumar,Electronics,2,amit.kumar@university.edu
+S004,Sneha Reddy,Computer Science,1,sneha.reddy@university.edu
+S005,Vikram Singh,Mechanical,3,vikram.singh@university.edu
+S006,Anjali Gupta,Computer Science,2,anjali.gupta@university.edu
+S007,Rohan Verma,Electronics,2,rohan.verma@university.edu
+S008,Neha Kapoor,Computer Science,4,neha.kapoor@university.edu
+S009,Arjun Mehta,Mechanical,1,arjun.mehta@university.edu
+S010,Pooja Nair,Electronics,3,pooja.nair@university.edu
+S011,Karan Joshi,Computer Science,2,karan.joshi@university.edu
+S012,Divya Iyer,Computer Science,1,divya.iyer@university.edu
+S013,Siddharth Rao,Mechanical,2,siddharth.rao@university.edu
+S014,Kavya Desai,Electronics,3,kavya.desai@university.edu
+S015,Aditya Pillai,Computer Science,4,aditya.pillai@university.edu
+S016,Ritu Malhotra,Computer Science,2,ritu.malhotra@university.edu
+S017,Manish Bhatt,Electronics,1,manish.bhatt@university.edu
+S018,Swati Agarwal,Mechanical,3,swati.agarwal@university.edu
+S019,Varun Chopra,Computer Science,2,varun.chopra@university.edu
+S020,Ishita Sen,Computer Science,3,ishita.sen@university.edu
+S021,Abhishek Pandey,Electronics,2,abhishek.pandey@university.edu
+S022,Shruti Bansal,Computer Science,1,shruti.bansal@university.edu
+S023,Nikhil Saxena,Mechanical,2,nikhil.saxena@university.edu
+S024,Megha Trivedi,Electronics,4,megha.trivedi@university.edu
+S025,Gaurav Mishra,Computer Science,3,gaurav.mishra@university.edu
+S026,Tanvi Shah,Computer Science,2,tanvi.shah@university.edu
+S027,Harsh Kulkarni,Electronics,1,harsh.kulkarni@university.edu
+S028,Nidhi Sinha,Mechanical,3,nidhi.sinha@university.edu
+S029,Rajat Bose,Computer Science,4,rajat.bose@university.edu
+S030,Ananya Khanna,Computer Science,2,ananya.khanna@university.edu
+S031,Mohit Chauhan,Electronics,3,mohit.chauhan@university.edu
+S032,Pallavi Ghosh,Computer Science,1,pallavi.ghosh@university.edu
+S033,Kunal Dixit,Mechanical,2,kunal.dixit@university.edu
+S034,Ritika Tiwari,Electronics,2,ritika.tiwari@university.edu
+S035,Sahil Dubey,Computer Science,3,sahil.dubey@university.edu
+S036,Preeti Jain,Computer Science,4,preeti.jain@university.edu
+S037,Vishal Arora,Electronics,1,vishal.arora@university.edu
+S038,Simran Kohli,Mechanical,3,simran.kohli@university.edu
+S039,Akash Yadav,Computer Science,2,akash.yadav@university.edu
+S040,Kritika Bajaj,Computer Science,1,kritika.bajaj@university.edu
